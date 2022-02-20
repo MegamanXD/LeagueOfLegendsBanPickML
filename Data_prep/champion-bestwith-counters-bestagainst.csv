@@ -1,0 +1,158 @@
+my_champion,ideal_role,win_rate(%),ban_rate(%),best_partners,worst_counters
+Aatrox,TOP,50.26%,2.01%,"Soraka, Diana","Garen, Riven"
+Ahri,MIDDLE,50.04%,1.05%,"Twitch, Soraka, Hecarim","Kassadin, Viktor"
+Akali,MIDDLE,48.32%,12.24%,"Kindred, Rammus, Nami, Sejuani, Warwick","Kassadin, Galio, Anivia, Shen, Ahri"
+Akshan,MIDDLE,50.49%,21.56%,"Brand, Zac, Gwen, Shen","Qiyana, Malphite"
+Alistar,UTILITY,49.86%,0.88%,"Qiyana, Shen","Soraka, Morgana"
+Amumu,JUNGLE,50.82%,1.64%,Nami,Diana
+Anivia,MIDDLE,51.85%,2.95%,"Camille, Soraka, Blitzcrank, Xin Zhao, Garen, Twitch",Qiyana
+Annie,MIDDLE,51.19%,0.72%,Nami,Viktor
+Aphelios,BOTTOM,47.67%,1.61%,"Gangplank, Shen",Twitch
+Ashe,BOTTOM,50.54%,1.24%,"Zed, Ekko, Ornn, Vex, Soraka",Miss Fortune
+Aurelion Sol,MIDDLE,50.55%,0.26%,Lulu,Viktor
+Azir,MIDDLE,47.72%,0.23%,Jhin,Zed
+Bard,UTILITY,50.26%,0.95%,"Kha'Zix, Shen, Fiora","Soraka, Nami, Blitzcrank"
+Blitzcrank,UTILITY,51.88%,17.73%,"Ornn, Xayah, Anivia, Fiddlesticks, Vi, Rek'Sai, Trundle","Xerath, Morgana"
+Brand,UTILITY,50.94%,6.12%,"Akshan, Zed, Qiyana, Jax, Jhin",Lulu
+Braum,UTILITY,49.90%,0.42%,"Jinx, Camille","Morgana, Lux"
+Caitlyn,BOTTOM,49.82%,18.23%,"Vel'Koz, Nunu, Talon, Ivern, Blitzcrank",Ziggs
+Camille,TOP,50.93%,7.70%,"Anivia, Fiddlesticks, Miss Fortune, Draven, Nunu","Teemo, Poppy, Kayle, Shen"
+Cassiopeia,TOP,52.56%,1.38%,Vayne,"Syndra, Zed"
+Cho'Gath,TOP,52.60%,1.00%,"Nami, Jhin",Camille
+Corki,MIDDLE,48.74%,3.60%,"Kha'Zix, Ornn, Urgot, Gnar, Nautilus, Qiyana, Vayne, Master Yi, Vi","Kassadin, Twisted Fate, Qiyana,Vladimir"
+Darius,TOP,50.88%,15.00%,"Soraka, Kha'Zix, Kindred, Zilean, Twitch, Evelynn, Anivia",Dr. Mundo
+Diana,MIDDLE,52.80%,9.31%,"Riven, Shen, Qiyana, Aatrox, Ahri, Kled","Warwick, Udyr, Xin Zhao"
+Dr. Mundo,TOP,51.14%,3.09%,"Morgana, Vayne","Yone, Aatrox, Camille"
+Draven,BOTTOM,50.74%,13.27%,"Camille, Kassadin, Ahri, Shen, Vi, Ekko, Jarvan IV, Soraka, Kha'Zix, Syndra","Kog'Maw, Aphelios"
+Ekko,MIDDLE,49.98%,3.98%,"Ashe, Kha'Zix, Graves, Soraka, Mordekaiser","Zed, Nunu, Yasuo"
+Elise,JUNGLE,48.24%,1.71%,"Qiyana, Yasuo, Nautilus, Camille","Kayn, Talon"
+Evelynn,JUNGLE,50.26%,9.18%,"Gangplank, Darius","Nunu, Talon"
+Ezreal,BOTTOM,49.55%,4.86%,"Pantheon, Fizz, Maokai, Riven, Qiyana, Soraka",Karthus
+Fiddlesticks,JUNGLE,49.98%,2.76%,"Soraka, Blitzcrank, Camille, Samira","Shaco, Xin Zhao, Kha'Zix"
+Fiora,TOP,50.55%,11.10%,"Rek'Sai, Bard, Soraka, Nidalee, Kassadin, Nunu","Nasus, Poppy, Malphite, Urgot, Shen"
+Fizz,MIDDLE,52.19%,4.89%,"Kha'Zix, Jhin, Yuumi, Graves","Vladimir, Zed, Kassadin"
+Galio,MIDDLE,49.31%,0.56%,"Hecarim, Lulu","Vladimir, Ekko, Yone"
+Gangplank,TOP,48.47%,4.33%,"Evelynn, Qiyana, Blitzcrank, Twisted Fate, Alistar, Vladimir, Nunu","Riven, Akshan, Sion, Cho'Gath, Ornn"
+Garen,TOP,50.27%,2.32%,"Anivia, Zac, Nami","Tahm Kench, Camille, Darius, Fiora"
+Gnar,TOP,50.44%,0.60%,"Corki, Twitch","Camille, Tahm Kench"
+Gragas,TOP,48.69%,0.29%,Vayne,"Vi, Rammus, Xin Zhao, Kayne, Poppy"
+Graves,JUNGLE,49.40%,10.40%,"Tahm Kench, Dr. Mundo, Fizz, Camille, Ekko, Darius","Trundle, Kindred"
+Gwen,TOP,49.96%,2.21%,"Akshan, Hecarim, Jinx","Shen, Jax, Darius, Fiora"
+Hecarim,JUNGLE,51.67%,5.48%,"Zoe, Kayle, Nasus, Vayne, Ahri, Sona, Zed, Tryndamere, Sion, Gwen, Twitch","Rek'Sai, Kindred"
+Heimerdinger,BOTTOM,51.66%,0.88%,"Miss Fortune, Lux","Lux, Nasus, Garen"
+Illaoi,TOP,49.58%,2.90%,Lux,"Yorick, Kayle, Mordekaiser"
+Irelia,TOP,49.03%,24.66%,"Sonna, Anivia, Kassadin, Vladimir, Nunu, Warwick, Sejuani","Vex, Tryndamere, Shen, Corki , Yasuo"
+Ivern,JUNGLE,50.00%,0.36%,"Jhin, Caitlyn","Evelynn, Nocturne, Sejuani"
+Janna,UTILITY,50.13%,0.44%,"Zac, Vex, Anivia, Xin Zhao","Lulu, Soraka"
+Jarvan IV,JUNGLE,51.23%,0.52%,Anivia,Dr. Mundo
+Jax,TOP,50.88%,11.51%,Malzahar,Dr. Mundo
+Jayce,MIDDLE,50.93%,4.69%,Sona,Vayne
+Jhin,BOTTOM,51.22%,5.48%,Malzahar,Kog'Maw
+Jinx,BOTTOM,51.10%,6.28%,Amumu,Vayne
+Kai'Sa,BOTTOM,48.96%,6.18%,Ziggs,Miss Fortune
+Kalista,BOTTOM,49.53%,0.29%,Vi,Sona
+Karma,UTILITY,48.84%,1.86%,Xin Zhao,Master Yi
+Karthus,BOTTOM,54.42%,3.87%,Akshan,Cassiopeia
+Kassadin,MIDDLE,50.77%,15.08%,Zyra,Diana
+Katarina,MIDDLE,50.26%,10.40%,Kayle,Dr. Mundo
+Kayle,MIDDLE,51.51%,1.14%,Trundle,Master Yi
+Kayn,JUNGLE,50.01%,12.18%,Garen,Nasus
+Kennen,MIDDLE,51.52%,0.69%,Vayne,Nunu & Willump
+Kha'Zix,JUNGLE,50.62%,7.08%,Anivia,Rengar
+Kindred,JUNGLE,49.66%,2.29%,Braum,Fiora
+Kled,TOP,49.99%,0.86%,Xerath,Vayne
+Kog'Maw,BOTTOM,52.54%,0.49%,Nunu & Willump,Anivia
+LeBlanc,MIDDLE,48.77%,12.85%,Kog'Maw,Amumu
+Lee Sin,JUNGLE,48.50%,16.43%,Cassiopeia,Sona
+Leona,UTILITY,49.56%,14.25%,Galio,Master Yi
+Lillia,JUNGLE,50.76%,0.99%,Soraka,Viktor
+Lissandra,MIDDLE,51.36%,0.68%,Xin Zhao,Ziggs
+Lucian,BOTTOM,49.32%,3.59%,Sona,Sona
+Lulu,UTILITY,50.89%,24.81%,Vel'Koz,Diana
+Lux,MIDDLE,51.02%,12.39%,Akshan,Sylas
+Malphite,TOP,51.31%,4.07%,Trundle,Fizz
+Malzahar,MIDDLE,50.23%,3.05%,Jax,Xerath
+Maokai,TOP,49.72%,0.18%,Kha'Zix,Trundle
+Master Yi,JUNGLE,50.10%,19.30%,Malzahar,Xayah
+Miss Fortune,BOTTOM,50.49%,2.23%,Dr. Mundo,Yone
+Mordekaiser,TOP,48.60%,5.88%,Trundle,Soraka
+Morgana,UTILITY,48.56%,27.09%,Cassiopeia,Sona
+Nami,UTILITY,50.78%,2.67%,Rammus,Sylas
+Nasus,TOP,50.95%,4.69%,Swain,Sona
+Nautilus,UTILITY,49.43%,7.75%,Ziggs,Yasuo
+Neeko,UTILITY,48.69%,0.34%,Vayne,Warwick
+Nidalee,JUNGLE,48.61%,2.76%,Kassadin,Nunu & Willump
+Nocturne,JUNGLE,47.47%,3.86%,Soraka,Trundle
+Nunu & Willump,JUNGLE,51.89%,2.28%,Sona,Viego
+Olaf,JUNGLE,48.51%,0.88%,Yuumi,Corki
+Orianna,MIDDLE,50.05%,0.19%,Trundle,Garen
+Ornn,TOP,51.37%,0.41%,Sona,Nautilus
+Pantheon,TOP,48.88%,0.99%,Tahm Kench,Warwick
+Poppy,TOP,49.67%,2.16%,Sona,Rell
+Pyke,UTILITY,49.16%,12.73%,"Zoe, Kindred, Anivia, Vladimir, Trundle, Qiyana","Rakan, Bard, Zilean"
+Qiyana,MIDDLE,50.77%,12.48%,"Ziggs, Sylas, Elise, Teemo, Dr. Mundo, Diana, Miss Fortune, Ornn","Shaco, Kayn, Kha'Zix, Hecarim, Zoe"
+Quinn,TOP,51.17%,0.56%,Jhin,"Malphite, Tahm Kench"
+Rakan,UTILITY,50.12%,0.46%,"Lux, Zac, Kha'Zix, Shen","Janna, Morgana, Leona"
+Rammus,JUNGLE,52.52%,3.44%,Jinx,"Trundle, Vi"
+Rek'Sai,JUNGLE,52.91%,1.80%,"Vex, Soraka, Yuumi, Fiora, Nautilus, Blitzcrank","Trundle, Vi, Xin Zhao"
+Rell,UTILITY,51.26%,0.53%,"Diana, Viktor, Jinx","Morgana, Soraka, Nami"
+Renekton,MIDDLE,52.35%,2.12%,"Viktor, Morgana, Blitzcrank, Xin Zhao, Zed","Tahm Kench, Gangplank, Shen, Aatrox"
+Rengar,TOP,47.07%,2.36%,"Vex, Lulu, Jinx",Viego
+Riven,TOP,51.39%,2.40%,"Vex, Miss Fortune, Diana, Qiyana, Xerath","Malphite, Urgot, Tryndamere"
+Rumble,MIDDLE,51.07%,0.27%,"Lux, Jinx","Sett, Garen, Tahm Kench"
+Ryze,MIDDLE,46.27%,0.23%,"Morgana, Lux, Blitzcrank","Malzahar, Veigar, Corki"
+Samira,BOTTOM,49.01%,11.41%,"Fiddlesticks, Shen, Lissandra, Soraka, Zac, Nunu, Vladimir",Xayah
+Sejuani,TOP,51.23%,0.33%,"Twitch, Lulu","Trundle, Warwick, Zac"
+Senna,BOTTOM,52.42%,1.67%,"Vladimir, Shen","Bard, Soraka, Pyke, Xerath, Leona"
+Seraphine,BOTTOM,55.10%,1.10%,"Amumu, Dr. Mundo, Trundle, Malphite","Morgana, Lux, Soraka, Brand"
+Sett,TOP,48.86%,7.57%,"Xin Zhao, Twitch, Anivia, Rakan, Nunu, Rek'Sai, Katarina","Aarox, Dr. Mundo, Riven"
+Shaco,UTILITY,52.23%,18.11%,"Soraka, Kassadin, Vayne, Garen, Jax","Vi, Rek'Sai, Diana"
+Shen,TOP,53.05%,1.65%,"Syndra, Zac, Zilean, Bard, Zed, Xin Zhao, Xerath","Aatrox, Dr. Mundo, Urgot, Darius"
+Shyvana,TOP,50.35%,0.28%,"Nautilus, Zed, Viktor","Vi, Nunu"
+Singed,TOP,50.03%,0.40%,"Vayne, Lulu","Urgot, Dr. Mundo, Nasus"
+Sion,TOP,51.49%,0.69%,"Soraka, Kha'Zix, Hecarim, Vayne, Talon","Darius, Irelia, Camille"
+Sivir,BOTTOM,49.96%,0.48%,"Garen, Xerath, Morgana","Twitch, Vayne, Draven"
+Skarner,JUNGLE,50.18%,0.16%,Vi,Ezreal
+Sona,UTILITY,51.64%,1.01%,"Irelia, Xin Zhao, Lucian, Nunu, Hecarim","Blitzcrank, Senna, Soraka"
+Soraka,UTILITY,52.73%,3.97%,"Teemo, Anivia, Nunu, Malzahar, Fiddlesticks, Rek'Sai, Darius, Ornn, Zed, Xayah, Shaco","Lux, Yuumi"
+Swain,BOTTOM,55.14%,1.78%,"Trundle, Lux, Rammus","Nami, Lulu"
+Sylas,MIDDLE,48.91%,4.26%,"Qiyana, Tryndamere, Talon, Shen, Dr. Mundo","Shen, Cassiopeia"
+Syndra,MIDDLE,48.97%,1.22%,"Shen, Soraka, Draven, Jinx, Camille","Qiyana, Zed, Akshan"
+Tahm Kench,TOP,51.57%,14.47%,"Twitch, Graves","Volibear, Shen"
+Taliyah,UTILITY,51.57%,0.18%,Kai'Sa,Master Yi
+Talon,MIDDLE,50.67%,22.88%,"Soraka, Sylas, Sion, Tahm Kench","Poppy, Diana, Nunu, Hecarim, Zac"
+Taric,UTILITY,50.93%,0.17%,"Vayne, Jinx, Master Yi","Brand, Lulu"
+Teemo,TOP,49.56%,10.20%,"Soraka, Sona, Vi, Trundle","Shen, Yorick, Nasus"
+Thresh,UTILITY,48.82%,6.89%,"Anivia, Poppy, Talon, Twitch, Rammus","Maokai, Taric"
+Tristana,BOTTOM,49.40%,2.45%,"Lulu, Nami","Vayne, Jinx"
+Trundle,TOP,54.78%,2.50%,"Vayne, Sona, Ashe, Anivia","Nunu, Kha'Zix"
+Tryndamere,TOP,51.09%,11.68%,"Sylas, Morgana, Hecarim, Kassadin, Karma","Camille, Malphite, Tahm Kench, Sion"
+Twisted Fate,MIDDLE,49.30%,1.47%,"Xerath, Soraka, Gangplank, Kha'Zix","Anivia, Katarina, Qiyana"
+Twitch,BOTTOM,52.00%,4.00%,"Ahri, Kha'Zix, Tahm Kench, Darius, Kayle, Anivia, Soraka, Shen, Zac, Rek'Sai, Nasus, Vladimir, Sett",Ashe
+Udyr,JUNGLE,49.54%,0.70%,"Lux, Lulu, Morgana",Trundle
+Urgot,TOP,54.20%,1.99%,"Vex, Vayne, Lux, Leona, Lulu, Kha'Zix, Nautilus",Darius
+Varus,BOTTOM,47.32%,0.22%,"Blitzcrank, Soraka",Twitch
+Vayne,BOTTOM,52.44%,22.33%,"Trundle, Urgot, Talon, Singed, Dr. Mundo, Xerath, Gragas","Kalista, Jinx"
+Veigar,BOTTOM,50.68%,1.37%,"Nasus, Dr. Mundo","Malzahar, Anivia"
+Vel'Koz,MIDDLE,52.90%,0.54%,"Caitlyn, Darius, Nasus","Blitzcrank, Soraka, Nami"
+Vex,MIDDLE,51.12%,17.95%,"Rek'Sai, Urgot, Janna, Riven, Rengar, Nunu, Ashe, Twitch, Miss Fortune, Kha'Zix","Anivia, Veigar"
+Vi,JUNGLE,51.43%,3.58%,"Blitzcrank, Vladimir, Darius, Shen, Draven, Tahm Kench","Kha'Zix, Nunu, Xin Zhao"
+Viego,JUNGLE,50.23%,13.97%,"Ahri, Anivia, Camille, Rell, Ashe","Elise, Rammus, Evelynn, Trundle"
+Viktor,MIDDLE,51.77%,15.84%,"Sivir, Wukong, Poppy, Urgot, Blitzcrank","Xerath, Galio"
+Vladimir,MIDDLE,51.29%,5.46%,"Nunu, Vi, Shen, Kha'Zix, Miss Fortune","Malzahar, Zoe, Lux"
+Volibear,JUNGLE,47.04%,1.61%,"Blitzcrank, Yasuo, Pyke, Kha'Zix",Jax
+Warwick,TOP,49.40%,7.07%,"Shen, Jhin","Talon, Ekko"
+Wukong,JUNGLE,51.36%,0.68%,Viktor,Camille
+Xayah,BOTTOM,50.83%,0.57%,"Blitzcrank, Lux, Soraka","Jhin, Twitch"
+Xerath,MIDDLE,51.44%,5.53%,"Twisted Fate, Rek'Sai, Poppy, Kha'Zix","Zilean, Yasuo, Bard, Soraka, Pyke"
+Xin Zhao,JUNGLE,49.52%,3.94%,"Xerath, Anivia, Sona, Kassadin, Shen, Ornn, Janna","Jarvan IV, Trundle"
+Yasuo,BOTTOM,49.89%,25.06%,"Elise, Ziggs, Ornn, Xayah","Lissandra, Qiyana, Veigar"
+Yone,MIDDLE,48.36%,29.08%,"Sivir, Nasus, Darius, Kassadin, Camille, Shen, Nidalee, Rek'Sai","Fiora, Xerath, Ahri, Lux"
+Yorick,TOP,50.70%,2.36%,Lux,"Shen, Urgot"
+Yuumi,UTILITY,47.76%,28.21%,"Rek'Sai, Shen, Fizz, Veigar, Ahri, Zed","Rakan, Blitzcrank, Leona"
+Zac,JUNGLE,50.97%,2.04%,"Shen, Janna, Rakan, Akshan, Twitch, Garen, Miss Fortune, Vayne, Qiyana, Darius","Kindred, Rek'Sai, Nunu, Xin Zhao"
+Zed,MIDDLE,50.76%,41.96%,"Shen, Ashe, Soraka, Brand, Ornn, Nunu, Hecarim, Tahm Kench, Karthus","Shaco, Qiyana"
+Ziggs,BOTTOM,53.10%,0.60%,"Kha'Zix, Kayn",Jhin
+Zilean,MIDDLE,53.06%,1.26%,"Shen, Darius, Jax, Kha'Zix, Katarina","Soraka, Sona, Janna"
+Zoe,MIDDLE,50.20%,1.45%,"Hecarim, Pyke, Blitzcrank","Lux, Vex"
+Zyra,UTILITY,50.11%,1.98%,"Kayn, Jhin","Soraka, Blitzcrank"
